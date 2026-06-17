@@ -24,3 +24,17 @@ An AI-powered Resume Analyzer built using Flask and Python.
 pip install -r requirements.txt
 
 python app.py
+
+# AI Resume Analyzer
+
+## Home Page
+
+![Home Page](screenshots/home.png)
+
+## Resume Analysis
+
+![Result](screenshots/result.png)
+
+## Resume History
+
+![History](screenshots/history.png)
